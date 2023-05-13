@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">EFM</string>
+
+    <string name="vehicle_ent">Vehicle Entry Fee \n Management \nSystem</string>
+    <string name="vehicle_ent2">Vehicle Entry Fee \n Management System</string>
+    <string name="log_in">Log In</string>
+    <string name="label">\u00C2\u00A9All Rights Reserved. Giridih Municipal \n Corporation (In Association With NSPL &amp; AVMSPL)\n</string>
 </resources>
